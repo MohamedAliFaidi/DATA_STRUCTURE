@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 var Queue = function() {
   // Hey! Rewrite in the new style. Your code will wind up looking very similar,
   // but try not not reference your old code in writing the new style.
@@ -26,15 +25,3 @@ Queue.prototype.dequeue = function() {
 Queue.prototype.size = function() {
   return this._end - this._start;
 };
-=======
-var Queue = function () {
-  // Hey! Rewrite in the new style. Your code will wind up looking very similar,
-  // but try not not reference your old code in writing the new style.
-};
-
-Queue.prototype.enqueue = function (value) {};
-
-Queue.prototype.dequeue = function () {};
-
-Queue.prototype.size = function () {};
->>>>>>> 455de41f01636bb5290609163f5ae89e2ba71513

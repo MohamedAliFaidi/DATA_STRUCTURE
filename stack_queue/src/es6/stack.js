@@ -1,7 +1,6 @@
 class Stack {
   // Hey! Rewrite in the new style. Your code will wind up looking very similar,
   // but try not not reference your old code in writing the new style.
-<<<<<<< HEAD
   constructor() {
 
     this._storage = {};
@@ -27,13 +26,3 @@ class Stack {
     return this._size;
   }
   }
-=======
-  constructor() {}
-
-  push(value) {}
-
-  pop() {}
-
-  size() {}
-}
->>>>>>> 455de41f01636bb5290609163f5ae89e2ba71513

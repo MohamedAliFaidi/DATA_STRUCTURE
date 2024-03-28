@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 var Stack = function() {
   // Hey! Rewrite in the new style. Your code will wind up looking very similar,
   // but try not not reference your old code in writing the new style.
@@ -25,15 +24,3 @@ Stack.prototype.pop = function() {
 Stack.prototype.size = function() {
   return this._size;
 };
-=======
-var Stack = function () {
-  // Hey! Rewrite in the new style. Your code will wind up looking very similar,
-  // but try not not reference your old code in writing the new style.
-};
-
-Stack.prototype.push = function (value) {};
-
-Stack.prototype.pop = function () {};
-
-Stack.prototype.size = function () {};
->>>>>>> 455de41f01636bb5290609163f5ae89e2ba71513
